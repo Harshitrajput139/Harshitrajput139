@@ -1,8 +1,8 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/harshitrajput139/harshitrajput139/main/banner.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hello World! 👋, I'm Harshit Rajput</h1>
-<h3 align="center">🚀 Indian Software Developer | Full Stack Engineer | Tech Explorer</h3>
+<h1 align="center">Hey there! 👋 I'm Harshit Rajput</h1>
+<h3 align="center">💻 First Year CS Student | Learning to Code | Tech Explorer</h3>
 
 ---
 
@@ -12,23 +12,21 @@
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
 </p>
 
-- 🔥 **Passionate Full Stack Developer** crafting digital experiences  
-- 🎯 **Currently mastering**: Advanced AI/ML, Cloud Architecture & DevOps  
-- 🤝 **Open to collaborate on**: Revolutionary Open Source Projects  
-- 🧠 **Always learning**: Cutting-edge technologies and frameworks  
-- 💡 **Ask me about**: React, Node.js, Python, System Design  
-- 📧 **Reach me at**: [thevdeshjadon@gmail.com](mailto:harshitrajput13985@gmail.com)  
-- 🎮 **Fun fact**: I turn coffee into code and bugs into features ☕➡️💻  
+- 🎓 **First Semester Computer Science Student**  
+- 🚀 **Currently learning**: C, Python, and Web Development basics  
+- 📘 **Exploring**: GitHub, Open Source & Problem Solving  
+- 🤝 **Looking to collaborate on**: Beginner-friendly projects  
+- 🧠 **Next goal**: Master Data Structures & Algorithms  
+- 📧 **Reach me at**: [harshitrajput13985@gmail.com](mailto:harshitrajput13985@gmail.com)  
+- 🎮 **Fun fact**: Debugging is just me having a fight with my own brain 😅  
 
 ---
 
 ## 🌐 Connect with Me  
 
 <div align="center">
-  <a href="mailto:thevdeshjadon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/harshit-kumar-2122b1317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/avdeshjadon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://harshitrajput139.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:harshitrajput13985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshit-kumar-2122b1317" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/harshitrajput139" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
@@ -37,31 +35,17 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitrajput139&theme=radical&show_icons=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=avdeshjadon&theme=radical&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitrajput139&theme=radical&show_icons=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=harshitrajput139&theme=radical&hide_border=false" height="160" />
 </div>
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack (Learning Now)  
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 </div>
 
@@ -85,4 +69,4 @@
   </picture>
 </p>  
 
-✨ *Watch my contributions come to life with this cool snake animation!* ✨
+✨ *Just starting out, but every contribution counts!* ✨
