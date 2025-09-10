@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/avdeshjadon/avdeshjadon/main/Banner.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hello World! 👋, I'm Avdesh Jadon</h1>
+<h1 align="center">Hello World! 👋, I'm Harshit Rajput</h1>
 <h3 align="center">🚀 Indian Software Developer | Full Stack Engineer | Tech Explorer</h3>
 
 ---
@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="mailto:thevdeshjadon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avdeshjadon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshit-kumar-2122b1317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/avdeshjadon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://avdeshjadon.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://github.com/avdeshjadon" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://harshitrajput139.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://github.com/harshitrajput139" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdeshjadon&theme=radical&show_icons=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitrajput139&theme=radical&show_icons=true&count_private=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=avdeshjadon&theme=radical&hide_border=false" height="160" />
 </div>
 
@@ -70,7 +70,7 @@
 ## 🌍 Visitor Map  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avdeshjadon&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitrajput139&theme=radical" />
 </p>
 
 ---
