@@ -17,7 +17,7 @@
 - 🤝 **Open to collaborate on**: Revolutionary Open Source Projects  
 - 🧠 **Always learning**: Cutting-edge technologies and frameworks  
 - 💡 **Ask me about**: React, Node.js, Python, System Design  
-- 📧 **Reach me at**: [thevdeshjadon@gmail.com](mailto:thevdeshjadon@gmail.com)  
+- 📧 **Reach me at**: [thevdeshjadon@gmail.com](mailto:harshitrajput13985@gmail.com)  
 - 🎮 **Fun fact**: I turn coffee into code and bugs into features ☕➡️💻  
 
 ---
