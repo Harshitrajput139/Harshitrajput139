@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there! 👋 I'm Harshit Rajput</h1>
+<h1 align="center">Hey there! 👋 I'm Harshit Kumar</h1>
 <h3 align="center">💻 First Year CS Student | Learning to Code | Tech Explorer</h3>
 
 ---
