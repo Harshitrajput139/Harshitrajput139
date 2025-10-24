@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/harshitrajput139/harshitrajput139/main/banner.png" alt="GitHub Banner" width="100%" />
+
 
 <h1 align="center">Hey there! 👋 I'm Harshit Rajput</h1>
 <h3 align="center">💻 First Year CS Student | Learning to Code | Tech Explorer</h3>
